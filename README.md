@@ -31,10 +31,10 @@ The data for this dashboard is sourced from the "Brazilian E-commerce" dataset o
 ## Usage
 To view the dashboard:
 1. Open `image.png` in your browser to get a quick overview of the dashboard.
-2. For detailed analysis and interaction, open the `ПРОЕКТ ЕРЁМИН.pbix` file using Power BI Desktop.
+2. For detailed analysis and interaction, open the `ecommerce olist.pbix` file using Power BI Desktop.
 
 ## Installation
-Download the repository and open the `image.png` file to view the dashboard. To interact with the Power BI project, open the `ПРОЕКТ ЕРЁМИН.pbix` file using Power BI Desktop.
+Download the repository and open the `image.png` file to view the dashboard. To interact with the Power BI project, open the `ecommerce olist.pbix` file using Power BI Desktop.
 
 ```bash
 git clone https://github.com/yourusername/brazilian-ecommerce-dashboard.git
